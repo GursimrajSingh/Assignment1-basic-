@@ -1,0 +1,7 @@
+Q How many of these can be a variable name ?
+Ans:
+01Pwskills        NO,variable name cannot start with numbers
+_FLOAT            YES,can star with special character underscore, dollar
+int               NO because it is a datatype
+FLOAT             YES, because float is datatype not FLOAT
+You will succeed  NO, no white spaces allowed

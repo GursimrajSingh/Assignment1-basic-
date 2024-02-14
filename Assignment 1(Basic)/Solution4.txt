@@ -1,0 +1,10 @@
+int main() {
+int a = 4;
+int b = 5;
+a++, b--;
+cout << ++a << " " << b--;
+}
+
+Ans: As in line 4, a becomes 5 and b becomes 4
+In cout before printing a it is incremented so a will become 6|| b is printed then decremented so there will be 4 printed
+Output:6 4 
